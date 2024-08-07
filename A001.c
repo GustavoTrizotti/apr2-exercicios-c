@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Faça um programa que leia dois números inteiros e imprima a soma deles.
 int main() {
     int x, y;
     printf("\nDigite dois numeros inteiros: ");
